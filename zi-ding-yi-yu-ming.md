@@ -16,3 +16,17 @@
 
 DNS 解析的转播可能需要花上几个小时的时间。
 
+![](.gitbook/assets/image%20%2810%29.png)
+
+
+
+
+
+![](.gitbook/assets/image%20%289%29.png)
+
+![](.gitbook/assets/image%20%288%29.png)
+
+![](.gitbook/assets/94fdb8f0efd2b97bd57446baefb0237.png)
+
+这个时候就成功了
+
