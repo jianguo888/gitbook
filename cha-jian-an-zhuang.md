@@ -6,6 +6,32 @@ book.json，该文件用于存放配置信息。
 
 gitbook支持许多插件，可以扩展gitbook的功能。
 
+
+
+* plugins 是配置新增或删除插件的位置,而 Gitbook 默认自带有 5 个插件：
+
+  > sharing：右上角分享功能  
+  > font-settings：字体设置（左上方的"A"符号）  
+  > livereload：为 GitBook 实时重新加载  
+  > highlight： 代码高亮  
+  > search： 导航栏查询功能（不支持中文）
+
+* pluginsConfig 是插件配置的地方
+
+**特别说明** 系统自带插件可通过 在插件名前面加减号的方式去除掉，如`-sharing`
+
+再添加了插件后要加载使用插件，需要使用`gitbook install` 来安装进项目。否则无法使用。
+
+**tips:**网络环境不好的小伙伴可能需要等待很长时间，可能都还安装不下来。
+
+不要灰心，可以使用 `npm install gitbook-plugin-插件名`的方式进行安装。若这种方式也很慢
+
+则配置下 `npm` 源吧
+
+```text
+npm config set registry=http://registry.npm.taobao.org -g
+```
+
 参考本人完整配置详情：
 
 ```text
