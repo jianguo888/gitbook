@@ -1,6 +1,9 @@
 # Table of contents
 
 * [什么是Gitbook](README.md)
+* [为什么要写博客？](wei-shen-me-yao-xie-bo-ke.md)
+* [为什么选择使用 GitBook 来搭建？](wei-shen-me-xuan-ze-shi-yong-gitbook-lai-da-jian.md)
+* [搭建方式](da-jian-fang-shi.md)
 * [安装](an-zhuang.md)
 * [基本使用](ji-ben-shi-yong/README.md)
   * [修改 gitbook 内容字体大小](ji-ben-shi-yong/xiu-gai-gitbook-nei-rong-zi-ti-da-xiao.md)
