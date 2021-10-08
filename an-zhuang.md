@@ -48,7 +48,13 @@ nodejs历史版本下载：[https://nodejs.org/dist/](https://nodejs.org/dist/)
 
 我选择的是node-v12.22.3-x64.msi：
 
-[https://nodejs.org/dist/latest-v12.x/node-v12.22.3-x64.msi](https://nodejs.org/dist/latest-v12.x/node-v12.22.3-x64.msi)
+{% embed url="https://nodejs.org/dist/latest-v12.x/node-v12.22.3-x64.msi" %}
+
+如果依旧报错，请用10.21.0版本吧
+
+或者按照后面的[运行bug报错章节](https://gitbook.luckly.work/yun-hang-bug-bao-cuo)
+
+
 
 或者：
 
