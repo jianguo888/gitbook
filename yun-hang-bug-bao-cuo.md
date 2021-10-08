@@ -13,7 +13,15 @@ if \(cb\) cb.apply\(this, arguments\)，cb.apply is not a function
 
 ## 解决方案2
 
- 打开报错 文件 62行 // fs.stat = statFix\(fs.stat\) // fs.fstat = statFix\(fs.fstat\) // fs.lstat = statFix\(fs.lstat\) 注销
+打开报错 文件 62行注销
+
+```text
+  // fs.stat = statFix(fs.stat)
+  // fs.fstat = statFix(fs.fstat)
+  // fs.lstat = statFix(fs.lstat)
+```
+
+![](.gitbook/assets/image%20%2813%29.png)
 
 注意：gitbook-cli已经不维护了，所以对高版本的node会有兼容性问题。目前来看，node10版本还是能稳定运行的
 
