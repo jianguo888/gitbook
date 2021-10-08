@@ -2,11 +2,19 @@
 
 book.json，该文件用于存放配置信息。
 
-【title】书本的标题 【author】作者的相关信息 【description】本书的简单描述 【language】gitbook使用的语言 【root】指定存放 GitBook 文件（除了 book.json）的根目录 【structure】指定自述文件，摘要，词汇表等的路径
+【title】书本的标题 
+
+【author】作者的相关信息 
+
+【description】本书的简单描述 
+
+【language】gitbook使用的语言 
+
+【root】指定存放 GitBook 文件（除了 book.json）的根目录 
+
+【structure】指定自述文件，摘要，词汇表等的路径
 
 gitbook支持许多插件，可以扩展gitbook的功能。
-
-
 
 * plugins 是配置新增或删除插件的位置,而 Gitbook 默认自带有 5 个插件：
 
