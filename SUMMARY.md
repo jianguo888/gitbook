@@ -1,6 +1,6 @@
 # Table of contents
 
-* [什么是Gitbook](README.md)
+* [作者介绍](README.md)
 * [为什么要写博客？](wei-shen-me-yao-xie-bo-ke.md)
 * [为什么选择使用 GitBook 来搭建？](wei-shen-me-xuan-ze-shi-yong-gitbook-lai-da-jian.md)
 * [搭建方式](da-jian-fang-shi.md)
@@ -18,9 +18,6 @@
 * [运行 bug 报错](yun-hang-bug-bao-cuo.md)
 * [结语](jie-yu.md)
 * [其他类似GitBook的在线文档创作平台](qi-ta-lei-si-gitbook-de-zai-xian-wen-dang-chuang-zuo-ping-tai.md)
+* [什么是Gitbook](shen-me-shi-gitbook.md)
 * [写书前奏](xie-shu-qian-zou.md)
-
-## 作者介绍
-
-* [Untitled](zuo-zhe-jie-shao/untitled.md)
 

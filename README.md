@@ -1,27 +1,34 @@
-# 什么是Gitbook
+# 作者介绍
 
-## 什么是Gitbook
+公众号：“明天也要加油呀”
 
-GitBook\) 是一个使用 Git 和 Markdown 来构建书籍的工具。它可以将你的书输出很多格式：PDF，ePub，mobi，或者输出为静态网页。
 
-GitBook工具链是开源并且完全免费的，
 
-GitBook 是一款现代化的文档平台，支持团队协作，可以在上面写产品文档、内部知识分享、接口文档等。
+微信：xjg13690,拉你进群
 
-所有在 **Gitbook.com** 上的书的http地址为 `http://{author}.gitbooks.io/{book}/`，而书内容的地址是 `http://{author}.gitbooks.io/{book}/content/`。
+![image-20210507081032836](https://luckly007.oss-cn-beijing.aliyuncs.com/img/image-20210507081032836.png)
 
-当你访问的时候
+自建博客：[https://luckly.work/](https://luckly.work/)
 
-正常是username.gitbook.io/name
+哔哩哔哩：[https://space.bilibili.com/480883651](https://space.bilibili.com/480883651)
 
-对于本书来说 就是[https://852851198.gitbook.io/gitbook/](https://852851198.gitbook.io/gitbook/)
+CSDN:[https://blog.csdn.net/qq\_39132095](https://blog.csdn.net/qq_39132095?spm=1001.2101.3001.5343)
 
-本地版是基于 Node.js 开发的，所以需要本地安装 Node.js 环境，本地版现已停止维护了，而且本地版的大部分功能网页版都支持，这也就是你有可能安装失败的原因
+知乎：[https://www.zhihu.com/people/yimi-yang-guang-96-65](https://www.zhihu.com/people/yimi-yang-guang-96-65)
 
-### Gitbook项目地址 <a id="gitbook"></a>
+简书：[https://www.jianshu.com/u/0c43689713e9](https://www.jianshu.com/u/0c43689713e9)
 
-* GitBook项目官网：[http://www.gitbook.io](http://www.gitbook.io/)
-* GitBook Github地址：[https://github.com/GitbookIO/gitbook](https://github.com/GitbookIO/gitbook)
+掘金：[https://juejin.cn/user/3843548384077192](https://juejin.cn/user/3843548384077192)
+
+GitHub：[https://github.com/ITmxs](https://github.com/ITmxs)
+
+Gitee：[https://gitee.com/itmxs](https://gitee.com/itmxs)
+
+取得成就
+
+![](.gitbook/assets/csdn5.png)
+
+![](.gitbook/assets/yun-jia-4.png)
 
 
 
