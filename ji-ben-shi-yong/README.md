@@ -48,11 +48,11 @@ gitbook epub ./ ./mybook.epub
 gitbook mobi ./ ./mybook.mobi
 ```
 
-如果生成不了，还需要安装工具[ebook-convert](https://calibre-ebook.com/)，安装好后，还需要执行以下命令
+如果生成不了，还需要安装工具[ebook-convert](https://links.jianshu.com/go?to=https%3A%2F%2Fcalibre-ebook.com)，安装好后，还需要执行以下命令
 
 ```text
 ln -s /Applications/calibre.app/Contents/MacOS/ebook-convert /usr/local/bin
 ```
 
-编辑 SUMMARY.md 文件
+编辑 SUMMARY.md 文件，内容修改为：
 

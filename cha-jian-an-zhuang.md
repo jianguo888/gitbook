@@ -327,5 +327,5 @@ gitbook install
        }
 ```
 
-### 
+### [https://www.npmjs.com/package/gitbook-plugin-theme-lou](https://www.npmjs.com/package/gitbook-plugin-theme-lou)
 
