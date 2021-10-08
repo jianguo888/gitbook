@@ -15,6 +15,8 @@
 * [将域名绑定到Coding](jiang-yu-ming-bang-ding-dao-coding.md)
 * [自定义域名](zi-ding-yi-yu-ming.md)
 * [Variant](variant.md)
+* [运行 bug 报错](yun-hang-bug-bao-cuo.md)
 * [结语](jie-yu.md)
 * [其他类似GitBook的在线文档创作平台](qi-ta-lei-si-gitbook-de-zai-xian-wen-dang-chuang-zuo-ping-tai.md)
+* [写书前奏](xie-shu-qian-zou.md)
 
