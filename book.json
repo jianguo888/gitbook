@@ -1,6 +1,6 @@
 {
-  "title": "Flutter实验室",
-  "description": "Flutter电子书教程",
+  "title": "Gitbook教程",
+  "description": "Gitbook电子书教程",
   "author": "Breeze",
   "language": "zh-hans",
   "root": ".",
@@ -93,12 +93,12 @@
       "nav": [
         {
           "target": "_blank",
-          "url": "https://flutter.dev/",
-          "name": "flutter官网"
+          "url": "https://www.gitbook.com/",
+          "name": "gitbook官网"
         },
         {
           "target": "_blank",
-          "url": "https://pub.flutter-io.cn/packages",
+          "url": "https://www.npmjs.com/package/package",
           "name": "插件"
         }
       ],
