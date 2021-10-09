@@ -9,6 +9,3 @@ gh-pages 分支保存书籍编译后的 HTML 文件
 ```text
 git checkout -b gh-pages 
 ```
-
-## 
-

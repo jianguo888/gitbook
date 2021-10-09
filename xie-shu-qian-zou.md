@@ -6,13 +6,13 @@
 
 可以从Github获取nvm最新版本自行安装：https://github.com/coreybutler/nvm-windows/releases
 
-![](.gitbook/assets/image%20%2812%29.png)
+![](https://luckly007.oss-cn-beijing.aliyuncs.com/image/image%20(12).png)
 
 
 
-![](.gitbook/assets/image%20%2814%29.png)
+![](https://luckly007.oss-cn-beijing.aliyuncs.com/image/image%20(14).png)
 
-![](.gitbook/assets/image%20%2811%29.png)
+![](https://luckly007.oss-cn-beijing.aliyuncs.com/image/image%20(11).png)
 
 
 
@@ -33,7 +33,7 @@ node_mirror: https://npm.taobao.org/mirrors/node/
 npm_mirror: https://npm.taobao.org/mirrors/npm/
 ```
 
-  
+
 安装指定版本
 
 nvm install 版本号
@@ -80,5 +80,4 @@ npm config set cache "D:\nodejs\node_cache"
 
 
   
-
 
