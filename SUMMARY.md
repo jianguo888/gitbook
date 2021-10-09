@@ -8,6 +8,7 @@
 * [基本使用](ji-ben-shi-yong/README.md)
   * [修改 gitbook 内容字体大小](ji-ben-shi-yong/xiu-gai-gitbook-nei-rong-zi-ti-da-xiao.md)
 * [插件安装](cha-jian-an-zhuang.md)
+* [Gitbook主题选择](gitbook-zhu-ti-xuan-ze.md)
 * [将Gitbook电子书部署到Coding上](jiang-gitbook-dian-zi-shu-bu-shu-dao-coding-shang.md)
 * [将Gitbook电子书部署到GitHub上](jiang-gitbook-dian-zi-shu-bu-shu-dao-github-shang.md)
 * [购买域名](gou-mai-yu-ming.md)
