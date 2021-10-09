@@ -1,4 +1,4 @@
-# 运行 bug 报错
+# gitbook init运行 bug 报错
 
 ### 运行 bug 报错
 

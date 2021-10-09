@@ -2,7 +2,7 @@
 
 公众号：“明天也要加油呀”
 
-
+![](.gitbook/assets/qrcod.jpg)
 
 微信：xjg13690,拉你进群
 
