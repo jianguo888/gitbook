@@ -1,7 +1,3 @@
----
-description: 什么是Gitbook
----
-
 # 什么是Gitbook
 
 (GitBook\) 是一个使用 Git 和 Markdown 来构建书籍的现代化的文档平台工具。支持团队协作，可以在上面写产品文档、内部知识分享、接口文档等。它可以将你的书输出很多格式：PDF，ePub，mobi，或者输出为静态网页。
