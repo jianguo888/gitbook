@@ -10,8 +10,8 @@ book.json文件
 
 ```text
 {
-  "title": "Flutter实验室",
-  "description": "Flutter电子书教程",
+  "title": "实验室",
+  "description": "电子书教程",
   "author": "Breeze",
   "language": "zh-hans",
   "root": ".",
