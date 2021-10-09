@@ -89,6 +89,3 @@
 官网及演示：[https://www.mkdocs.org](https://www.mkdocs.org/)
 
 开源地址：[https://github.com/mkdocs/mkdoc](https://github.com/mkdocs/mkdoc)
-
-### \*\*\*\*
-

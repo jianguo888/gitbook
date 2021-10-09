@@ -10,6 +10,7 @@
     "splitter",
     "tbfed-pagefooter",
     "expandable-chapters",
+    "chapter-fold",
     "back-to-top-button",
     "code",
     "pageview-count",
@@ -20,22 +21,31 @@
     "splitter",
     "-sharing",
     "sharing-plus",
-    "theme-lou"
+    "theme-lou",
+    "mind-maps",
+    "emphasize",
+    "anchors"
   ],
   "styles": {
-    "website": "styles/website.css"
+    "website": "styles/website.css",
+    "ebook": "styles/ebook.css",
+    "pdf": "styles/pdf.css",
+    "mobi": "styles/mobi.css",
+    "epub": "styles/epub.css"
   },
   "pluginsConfig": {
     "github-buttons": {
-      "repo": "ITmxs/gitbook-Information-System-Engineer",
+      "repo": "ITmxs/gitbook",
       "types": [
-        "star"
+        "star",
+        "watch",
+        "fork"
       ],
       "size": "small"
     },
     "edit-link": {
-      "base": "https://github.com/ITmxs/gitbook-Information-System-Engineer/edit/master",
-      "label": "Edit This Page"
+      "base": "https://github.com/ITmxs/gitbook/edit/master/",
+      "label": "编辑此页"
     },
     "tbfed-pagefooter": {
       "copyright": "&copy luckly ",

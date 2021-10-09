@@ -42,21 +42,21 @@
 
    之后再次查看，OK。
 
+如果依旧报错，请用10.21.0版本吧,主要现在官方主推[网页版](http://www.gitbook.io/)，但10.0版本是长期支持的，这里涉及到多个Node版本，推荐使用Nvm进行 版本控制
+
+关于如何安装 nvm 
+
+[Windows 特定版本的 nvm](https://github.com/coreybutler/nvm-windows#installation--upgrades)。
+
 nodejs历史版本下载：[https://nodejs.org/dist/](https://nodejs.org/dist/)
 
-![image-20211007094646266](https://luckly007.oss-cn-beijing.aliyuncs.com/img/image-20211007094646266.png)
+![image-20211009201143578](https://luckly007.oss-cn-beijing.aliyuncs.com/img/image-20211009201143578.png)
 
-我选择的是node-v12.22.3-x64.msi：
+我选择的是node-v10.21.0-x64.msi：
 
-如果依旧报错，请用10.21.0版本吧
+![image-20211009201234287](https://luckly007.oss-cn-beijing.aliyuncs.com/img/image-20211009201234287.png)
 
 或者按照后面的[运行bug报错章节](https://gitbook.luckly.work/yun-hang-bug-bao-cuo)
-
-
-
-或者：
-
-降级nodejs版本为：[node-v9.11.2-x64.msi](https://nodejs.org/dist/latest-v9.x/node-v9.11.2-x64.msi)
 
 重新安装nodejs。
 

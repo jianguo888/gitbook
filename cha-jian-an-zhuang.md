@@ -8,7 +8,7 @@ book.json，该文件用于存放配置信息。
 
 【description】本书的简单描述 
 
-【language】gitbook使用的语言 
+【language】gitbook使用的语言 我的是"zh-hans",
 
 【root】指定存放 GitBook 文件（除了 book.json）的根目录 
 
@@ -44,8 +44,8 @@ npm config set registry=http://registry.npm.taobao.org -g
 
 ```text
 {
-    "title": "信息系统项目管理师",
-    "description": "信息系统项目管理师电子书教程",
+    "title": "Gitbook教程",
+    "description": "Gitbook电子书教程",
     "author": "Breeze",
     "language": "zh-hans",
     "root": ".",
@@ -134,7 +134,7 @@ gitbook install
 
 ## 插件说明
 
-【目录章节可折叠：expandable-chapters】
+### 【目录章节可折叠：expandable-chapters】
 
 ```text
 {
@@ -149,7 +149,7 @@ gitbook install
 }
 ```
 
-【畅言评论：changyan】
+### 【畅言评论：changyan】
 
 ```text
 {
@@ -281,6 +281,12 @@ gitbook install
 
 一个支持多层目录，一个是在目录前方加上箭头。使点击两个都有效。
 
+```
+    "plugins": [  "expandable-chapters","chapter-fold"]
+```
+
+
+
 ### hide-element 隐藏界面元素
 
 [GitHub 地址](https://github.com/gonjay/gitbook-plugin-hide-element)
@@ -327,5 +333,90 @@ gitbook install
        }
 ```
 
-### [https://www.npmjs.com/package/gitbook-plugin-theme-lou](https://www.npmjs.com/package/gitbook-plugin-theme-lou)
+### gitbook-思维导图
 
+一个用Markdown生成思维导图的GitBook插件
+
+```
+"plugins": ["mind-maps"]
+```
+
+使用
+
+```mind:height=300,title=a mind map of something,color
+# 1
+## 1.1
+### 1.1.1
+## 1.2
+# 2
+# 3
+```
+```mind
+
+- 1
+  - 1.1
+    - 1.1.1
+  - 1.2
+- 2
+- 3
+```
+
+### GitBook 插件：编辑链接
+
+```
+  "plugins": ["edit-link"]
+```
+
+这个 GitBook 插件在每个页面上添加了“编辑此页面”链接。
+
+链接目标将是 Github 或 Gitlab 或任何 repo 上该页面的源文件。
+
+```
+  "edit-link": {
+      "base": "https://github.com/ITmxs/gitbook/edit/master/",
+      "label": "编辑此页"
+    },
+```
+
+###  Github Buttons
+
+添加项目在 github 上的 star,watch,fork 情况
+
+```
+{
+    "plugins": [
+        "github-buttons"
+    ],
+    "pluginsConfig": {
+        "github-buttons": {
+            "repo": "zhangjikai/gitbook-use",
+            "types": [
+                "star",
+                "watch",
+                "fork"
+            ],
+            "size": "small"
+        }
+    }
+}
+```
+
+### Emphasize
+
+为文字添加底色
+
+[插件地址](https://plugins.gitbook.com/plugin/emphasize)
+
+```
+"plugins": [    "emphasize"]
+```
+
+### Anchors
+
+添加 Github 风格的锚点样式
+
+[插件地址](https://plugins.gitbook.com/plugin/anchors)
+
+```
+"plugins" : [ "anchors" ]
+```

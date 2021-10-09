@@ -1,7 +1,5 @@
 # Gitbook主题选择
 
-## Gitbook主题
-
 [https://www.npmjs.com/package/gitbook-plugin-theme-lou](https://www.npmjs.com/package/gitbook-plugin-theme-lou)
 
 
