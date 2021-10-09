@@ -11,5 +11,6 @@ fi
 git commit -m "$msg"
 
 # Push source and build repos.
-git push    gh-pages 
+git push    origin master 
+
 
