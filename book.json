@@ -24,7 +24,9 @@
     "theme-lou",
     "mind-maps",
     "emphasize",
-    "anchors"
+    "anchors",
+    "changyan",
+    "readmore"
   ],
   "styles": {
     "website": "styles/website.css",
@@ -47,8 +49,17 @@
       "base": "https://github.com/ITmxs/gitbook/edit/master/",
       "label": "编辑此页"
     },
+    "readmore": {
+      "blogId": "27976-1633793308049-845",
+      "name": "明天也要加油呀",
+      "qrcode": "https://luckly007.oss-cn-beijing.aliyuncs.com/image/qrcod.jpg",
+      "keyword": "breeze_yyds"
+    },
+    "changyan": {
+      "appid": "cyvHoCPAs",
+      "conf": "0440cfc4168ba95d73cfc52dd4d5c60b"
+    },
     "tbfed-pagefooter": {
-      "copyright": "&copy luckly ",
       "modify_label": "该文件修订时间：",
       "modify_format": "YYYY-MM-DD HH:mm:ss"
     },
@@ -94,7 +105,7 @@
         ".summary .divider"
       ],
       "copyright": {
-        "author": "breeze"
+        "author": "vx:xjg13690"
       }
     }
   },
@@ -124,9 +135,9 @@
           "alipayText": "支付宝",
           "wechatText": "微信",
           "message": "随意打赏，但不要超过一顿早餐钱 💕"
-        }
-      },
-      "copyright": true
+        },
+        "copyright": true
+      }
     }
   }
 }
