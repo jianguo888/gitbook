@@ -118,6 +118,26 @@
           "target": "_blank",
           "url": "https://www.npmjs.com/package/package",
           "name": "插件"
+        },
+        {
+          "target": "_blank",
+          "url": "https://space.bilibili.com/480883651",
+          "name": "哔哩哔哩"
+        },
+        {
+          "target": "_blank",
+          "url": "https://www.zhihu.com/people/yimi-yang-guang-96-65",
+          "name": "知乎"
+        },
+        {
+          "target": "_blank",
+          "url": "https://juejin.cn/user/3843548384077192",
+          "name": "掘金"
+        },
+        {
+          "target": "_blank",
+          "url": "https://blog.csdn.net/qq_39132095?spm=1001.2101.3001.5343",
+          "name": "CSDN"
         }
       ],
       "footer": {
