@@ -2,13 +2,11 @@
 
 公众号：“明天也要加油呀”
 
-![](https://luckly007.oss-cn-beijing.aliyuncs.com/image/qrcod.jpg)
+![999999999999999](https://luckly007.oss-cn-beijing.aliyuncs.com/img/999999999999999.png)
 
 微信：xjg13690,拉你进群
 
 ![image-20210507081032836](https://luckly007.oss-cn-beijing.aliyuncs.com/image/image-20210507081032836.png)
-
-自建博客：[https://luckly.work/](https://luckly.work/)
 
 哔哩哔哩：[https://space.bilibili.com/480883651](https://space.bilibili.com/480883651)
 
@@ -32,5 +30,5 @@ Gitee：[https://gitee.com/itmxs](https://gitee.com/itmxs)
 
 
 
-### 
+
 
