@@ -19,6 +19,7 @@
 * [自定义域名](自定义域名.md)
 * [Variant](variant.md)
 * [gitbook init运行 bug 报错](gitbook init运行 bug 报错.md)
+* [热加载](热加载.md)
 * [其他类似GitBook的在线文档创作平台](其他类似GitBook的在线文档创作平台.md)
 * [结语](结语.md)
 * [致谢](致谢.md)
