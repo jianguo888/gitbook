@@ -34,7 +34,7 @@
 
 ![image-20211010084308217](https://luckly007.oss-cn-beijing.aliyuncs.com/img/image-20211010084308217.png)
 
- 详细 [安装部署文档](https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fwww.bookstack.cn%2Fread%2Fhelp%2FUbuntu.md)
+ 详细 [安装部署文档](https://www.bookstack.cn/read/help/Ubuntu.md)
 
 在线文档管理系统，相当完备，需要有一台服务器自建
 
