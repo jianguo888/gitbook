@@ -4,7 +4,15 @@
     <head>
         <meta charset="UTF-8">
         <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
-        <title>gitbook init运行 bug 报错 · Gitbook教程</title>
+<<<<<<< HEAD
+        <title>将域名绑定到Coding · Gitbook教程</title>
+=======
+<<<<<<< HEAD:da-jian-fang-shi.html
+        <title>搭建方式 · Gitbook教程</title>
+=======
+        <title>将域名绑定到Coding · Gitbook教程</title>
+>>>>>>> 845596aa6429cb113554f03c9cf3bf03aaea124e:将域名绑定到Coding.html
+>>>>>>> 845596aa6429cb113554f03c9cf3bf03aaea124e
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
         <meta name="description" content="">
         <meta name="generator" content="GitBook 3.2.3">
@@ -98,10 +106,10 @@
     <link rel="shortcut icon" href="gitbook/images/favicon.ico" type="image/x-icon">
 
     
-    <link rel="next" href="热加载.html" />
+    <link rel="next" href="自定义域名.html" />
     
     
-    <link rel="prev" href="variant.html" />
+    <link rel="prev" href="将Gitbook电子书部署到Coding上.html" />
     
 
     <style>
@@ -195,10 +203,13 @@
     <ul class="header-nav">
       <li>
         <a href="https://www.gitbook.com/" target="_blank">gitbook官网</a>
-<<<<<<< HEAD:yun-hang-bug-bao-cuo.html
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD:da-jian-fang-shi.html
       </li><li>
         <a href="https://www.npmjs.com/package/package" target="_blank">插件</a>
 =======
+>>>>>>> 845596aa6429cb113554f03c9cf3bf03aaea124e
       </li><li>
         <a href="https://www.npmjs.com/package/package" target="_blank">插件</a>
       </li><li>
@@ -209,7 +220,10 @@
         <a href="https://juejin.cn/user/3843548384077192" target="_blank">掘金</a>
       </li><li>
         <a href="https://blog.csdn.net/qq_39132095?spm=1001.2101.3001.5343" target="_blank">CSDN</a>
->>>>>>> 845596aa6429cb113554f03c9cf3bf03aaea124e:gitbook init运行 bug 报错.html
+<<<<<<< HEAD
+=======
+>>>>>>> 845596aa6429cb113554f03c9cf3bf03aaea124e:将域名绑定到Coding.html
+>>>>>>> 845596aa6429cb113554f03c9cf3bf03aaea124e
       </li>
     </ul>
   </div>
@@ -451,7 +465,7 @@
             <ul class="articles">
                 
     
-        <li class="chapter " data-level="1.14.1" data-path="将域名绑定到Coding.html">
+        <li class="chapter active" data-level="1.14.1" data-path="将域名绑定到Coding.html">
             
                 <a href="将域名绑定到Coding.html">
             
@@ -495,7 +509,7 @@
             
         </li>
     
-        <li class="chapter active" data-level="1.17" data-path="gitbook init运行 bug 报错.html">
+        <li class="chapter " data-level="1.17" data-path="gitbook init运行 bug 报错.html">
             
                 <a href="gitbook init运行 bug 报错.html">
             
@@ -573,6 +587,22 @@
             
         </li>
     
+<<<<<<< HEAD
+        <li class="chapter " data-level="1.23" data-path="部署教程.html">
+            
+                <a href="部署教程.html">
+            
+                    
+                    部署教程
+            
+                </a>
+            
+
+            
+        </li>
+    
+=======
+>>>>>>> 845596aa6429cb113554f03c9cf3bf03aaea124e
 
     
 
@@ -607,7 +637,7 @@
     <!-- Title -->
     <h1>
         <i class="fa fa-circle-o-notch fa-spin"></i>
-        <a href="." >gitbook init运行 bug 报错</a>
+        <a href="." >将域名绑定到Coding</a>
     </h1>
 </div>
 
@@ -620,29 +650,39 @@
     <div class="search-noresults">
     
           <section class="normal markdown-section">
-             
-                <div id="vip-container">
-                    <h1 id="gitbook-init&#x8FD0;&#x884C;-bug-&#x62A5;&#x9519;"><a name="gitbook-init&#x8FD0;&#x884C;-bug-&#x62A5;&#x9519;" class="plugin-anchor" href="#gitbook-init&#x8FD0;&#x884C;-bug-&#x62A5;&#x9519;"><i class="fa fa-link" aria-hidden="true"></i></a>gitbook init&#x8FD0;&#x884C; bug &#x62A5;&#x9519;</h1>
-<h3 id="&#x8FD0;&#x884C;-bug-&#x62A5;&#x9519;"><a name="&#x8FD0;&#x884C;-bug-&#x62A5;&#x9519;" class="plugin-anchor" href="#&#x8FD0;&#x884C;-bug-&#x62A5;&#x9519;"><i class="fa fa-link" aria-hidden="true"></i></a>&#x8FD0;&#x884C; bug &#x62A5;&#x9519;</h3>
-<p>&#x4E0B;&#x8F7D;&#x8F83;&#x65B0;&#x7248;&#x672C;&#x7684; node.js &#x4F1A;&#x5BFC;&#x81F4; gitbook &#x8FD0;&#x884C;&#x62A5;&#x9519;&#xFF0C;&#x5982;&#x679C;&#x4F60;&#x4E5F;&#x9047;&#x5230;&#x4E86;</p>
-<p>gitbook init ::&#x521D;&#x59CB;&#x5316; &#x51FA;&#x9519;<br>if (cb) cb.apply(this, arguments)&#xFF0C;cb.apply is not a function </p>
-<h2 id="&#x89E3;&#x51B3;&#x65B9;&#x6848;1"><a name="&#x89E3;&#x51B3;&#x65B9;&#x6848;1" class="plugin-anchor" href="#&#x89E3;&#x51B3;&#x65B9;&#x6848;1"><i class="fa fa-link" aria-hidden="true"></i></a>&#x89E3;&#x51B3;&#x65B9;&#x6848;1</h2>
-<p>&#x4EA7;&#x751F;&#x8FD9;&#x4E2A;&#x62A5;&#x9519;&#x7684;&#x539F;&#x56E0;&#x5728;&#x4E8E;&#xFF0C;nodejs&#x7684;&#x7248;&#x672C;&#x4E0D;&#x5BF9;&#xFF0C;&#x4E0D;&#x652F;&#x6301;&#x8FD9;&#x4E2A;gitbook. &#x5207;&#x6362;&#x6210;nodejs&#x7684;v10.21.0&#x7248;&#x672C;&#x5C31;&#x4F1A;&#x6210;&#x529F;&#x3002;</p>
-<h2 id="&#x89E3;&#x51B3;&#x65B9;&#x6848;2"><a name="&#x89E3;&#x51B3;&#x65B9;&#x6848;2" class="plugin-anchor" href="#&#x89E3;&#x51B3;&#x65B9;&#x6848;2"><i class="fa fa-link" aria-hidden="true"></i></a>&#x89E3;&#x51B3;&#x65B9;&#x6848;2</h2>
-<p>&#x6253;&#x5F00;&#x62A5;&#x9519; &#x6587;&#x4EF6; 62&#x884C;&#x6CE8;&#x9500;</p>
-<pre><code class="lang-text">  // fs.stat = statFix(fs.stat)
-  // fs.fstat = statFix(fs.fstat)
-  // fs.lstat = statFix(fs.lstat)
-</code></pre>
-<p><img src=".gitbook/assets/image%20%2813%29.png" alt=""></p>
-<p>&#x6CE8;&#x610F;&#xFF1A;gitbook-cli&#x5DF2;&#x7ECF;&#x4E0D;&#x7EF4;&#x62A4;&#x4E86;&#xFF0C;&#x6240;&#x4EE5;&#x5BF9;&#x9AD8;&#x7248;&#x672C;&#x7684;node&#x4F1A;&#x6709;&#x517C;&#x5BB9;&#x6027;&#x95EE;&#x9898;&#x3002;&#x76EE;&#x524D;&#x6765;&#x770B;&#xFF0C;node10&#x7248;&#x672C;&#x8FD8;&#x662F;&#x80FD;&#x7A33;&#x5B9A;&#x8FD0;&#x884C;&#x7684;</p>
-<<<<<<< HEAD:yun-hang-bug-bao-cuo.html
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD:da-jian-fang-shi.html
+             <h1 id="&#x642D;&#x5EFA;&#x65B9;&#x5F0F;">&#x642D;&#x5EFA;&#x65B9;&#x5F0F;</h1>
+<h4 id="3&#x642D;&#x5EFA;&#x65B9;&#x5F0F;-">3.&#x642D;&#x5EFA;&#x65B9;&#x5F0F; <a id="3&#x642D;&#x5EFA;&#x65B9;&#x5F0F;"></a></h4>
+<p><strong>3.1 GitBook &#x7EBF;&#x4E0A;&#x76F4;&#x63A5;&#x642D;&#x5EFA;</strong></p>
+<p>&#x7EBF;&#x4E0A;&#x7F51;&#x5740;&#x642D;&#x5EFA;&#x5730;&#x5740; <a href="https://legacy.gitbook.com/" target="_blank">&#x4F20;&#x9001;&#x95E8;</a> &#x5177;&#x4F53;&#x642D;&#x5EFA;&#x6559;&#x7A0B;&#x53EF;&#x7F51;&#x4E0A;&#x81EA;&#x884C;&#x641C;&#x7D22;&#xFF0C;&#x8FD9;&#x91CC;&#x5C31;&#x4E0D;&#x505A;&#x8FC7;&#x591A;&#x8BB0;&#x5F55;&#x3002;&#x539F;&#x56E0;&#x5982;&#x4E0B;&#xFF1A;</p>
+<blockquote>
+<ul>
+<li>&#x56FD;&#x5185;&#x7F51;&#x7EDC;&#x73AF;&#x5883;&#x95EE;&#x9898;&#xFF0C;&#x5BFC;&#x81F4; GitBook &#x7F51;&#x7AD9;&#x7ECF;&#x5E38;&#x6253;&#x4E0D;&#x5F00;&#xFF0C;&#x9700;&#x8981;&#x4F7F;&#x7528;&#x4EE3;&#x7406;&#x624D;&#x80FD;&#x8BBF;&#x95EE;&#x3002;</li>
+<li>&#x4FEE;&#x6539;&#x63D0;&#x4EA4;&#x540E;&#xFF0C;&#x66F4;&#x65B0;&#x663E;&#x793A;&#x6709;&#x65F6;&#x95F4;&#x5EF6;&#x8FDF;&#x3002;</li>
+</ul>
+</blockquote>
+<p><strong>3.2 &#x7531;&#x57FA;&#x4E8E;Node.js&#x7684;&#x547D;&#x4EE4;&#x5DE5;&#x5177;&#x5F00;&#x53D1;</strong></p>
+<p>&#x672C;&#x4EBA;&#x63A8;&#x8350;&#x4F7F;&#x7528;&#x8FD9;&#x79CD;&#x65B9;&#x5F0F;&#xFF0C;&#x65B9;&#x4FBF;&#x7BA1;&#x7406;&#xFF0C;&#x914D;&#x5408;&#x81EA;&#x5DF1;&#x7684;&#x4EE3;&#x7801;&#x7BA1;&#x7406;&#x5DE5;&#x5177;&#x3002;&#x7B80;&#x76F4;&#x4E0D;&#x8981;&#x592A;&#x5B8C;&#x7F8E;&#x3002;</p>
+<p>&#x6D89;&#x53CA;&#x5230;&#x7684;&#x5DE5;&#x5177;&#xFF1A;<code>Node.js</code> ,<code>gitbook-cli</code>&#xFF0C;&#x7F16;&#x8BD1;&#x5668; <code>VS Code</code>,<code>Typora</code></p>
+<blockquote>
+<p>Typora &#x4E0B;&#x8F7D;&#x5730;&#x5740;&#xFF1A;<a href="https://typora.io/" target="_blank">https://typora.io/</a></p>
+</blockquote>
 <footer class="page-footer"><span class="copyright">&#xA9; luckly  all right reserved&#xFF0C;powered by Gitbook</span><span class="footer-modification">&#x8BE5;&#x6587;&#x4EF6;&#x4FEE;&#x8BA2;&#x65F6;&#x95F4;&#xFF1A;
 2021-10-09 18:24:16
 =======
+>>>>>>> 845596aa6429cb113554f03c9cf3bf03aaea124e
+             
+                <div id="vip-container">
+                    <h1 id="&#x5C06;&#x57DF;&#x540D;&#x7ED1;&#x5B9A;&#x5230;coding"><a name="&#x5C06;&#x57DF;&#x540D;&#x7ED1;&#x5B9A;&#x5230;coding" class="plugin-anchor" href="#&#x5C06;&#x57DF;&#x540D;&#x7ED1;&#x5B9A;&#x5230;coding"><i class="fa fa-link" aria-hidden="true"></i></a>&#x5C06;&#x57DF;&#x540D;&#x7ED1;&#x5B9A;&#x5230;Coding</h1>
 <footer class="page-footer"><span class="copyright">powered by Gitbook</span><span class="footer-modification">&#x8BE5;&#x6587;&#x4EF6;&#x4FEE;&#x8BA2;&#x65F6;&#x95F4;&#xFF1A;
-2021-10-10 16:34:12
->>>>>>> 845596aa6429cb113554f03c9cf3bf03aaea124e:gitbook init运行 bug 报错.html
+<<<<<<< HEAD
+2021-10-11 07:54:12
+=======
+2021-10-10 16:34:14
+>>>>>>> 845596aa6429cb113554f03c9cf3bf03aaea124e:将域名绑定到Coding.html
+>>>>>>> 845596aa6429cb113554f03c9cf3bf03aaea124e
 </span></footer>
 <script>console.log("plugin-popup....");document.onclick = function(e){ e.target.tagName === "IMG" && window.open(e.target.src,e.target.src)}</script><style>img{cursor:pointer}</style>
                 </div>
@@ -712,23 +752,23 @@
 
      
     <a
-      href="variant.html"
+      href="将Gitbook电子书部署到Coding上.html"
       class="
         navigation navigation-prev
         
       "
-      aria-label="Previous page: Variant"
+      aria-label="Previous page: 将Gitbook电子书部署到Coding上"
     >
       <i class="fa fa-angle-left"></i>
     </a>
      
     <a
-      href="热加载.html"
+      href="自定义域名.html"
       class="
         navigation navigation-next
         
       "
-      aria-label="Next page: 热加载"
+      aria-label="Next page: 自定义域名"
     >
       <i class="fa fa-angle-right"></i>
     </a>
@@ -762,11 +802,15 @@
 
     var gitbook = gitbook || [];
     gitbook.push(function () {
-<<<<<<< HEAD:yun-hang-bug-bao-cuo.html
-      gitbook.page.hasChanged({"page":{"title":"gitbook init运行 bug 报错","level":"1.17","depth":1,"next":{"title":"结语","level":"1.18","depth":1,"path":"jie-yu.md","ref":"jie-yu.md","articles":[]},"previous":{"title":"Variant","level":"1.16","depth":1,"path":"variant.md","ref":"variant.md","articles":[]},"dir":"ltr"},"config":{"plugins":["github-buttons@2.1.0","edit-link","splitter","tbfed-pagefooter","expandable-chapters","back-to-top-button","code","pageview-count","popup","search-plus","-lunr","-search","splitter","-sharing","sharing-plus","theme-lou","livereload"],"root":".","styles":{"website":"styles/website.css"},"pluginsConfig":{"tbfed-pagefooter":{"copyright":"&copy luckly ","modify_label":"该文件修订时间：","modify_format":"YYYY-MM-DD HH:mm:ss"},"pluginsConfig":{"expandable-chapters":{}},"livereload":{},"splitter":{},"sharing-plus":{"qq":false,"all":["facebook","google","twitter","instapaper","linkedin","pocket","stumbleupon"],"douban":false,"facebook":true,"weibo":false,"instapaper":false,"whatsapp":false,"hatenaBookmark":false,"twitter":true,"messenger":false,"line":false,"vk":false,"pocket":true,"google":false,"viber":false,"stumbleupon":false,"qzone":false,"linkedin":false},"popup":{},"code":{"copyButtons":true},"theme-lou":{"hide-elements":[".summary .gitbook-link",".summary .divider"],"color":"#FF4848","book-anchor-title":"本章目录","copyright":{"author":"breeze"},"forbidCopy":true,"logo":"assets/logo.png","book-summary-title":"文章目录","search-placeholder":"输入关键字搜索","copyrightLogo":"assets/copyright.png","favicon":"assets/favicon.ico","appleTouchIconPrecomposed152":"assets/avatar.png"},"fontsettings":{"theme":"white","family":"sans","size":2},"highlight":{},"back-to-top-button":{},"pageview-count":{},"github-buttons":{"repo":"ITmxs/gitbook-Information-System-Engineer","types":["star"],"size":"small"},"sharing":{"qq":false,"all":["qq","qzone","viber","whatsapp","douban","facebook","google","instapaper","linkedin","messenger","twitter","weibo"],"douban":false,"facebook":false,"weibo":false,"twitter":false,"pocket":false,"google":false,"qzone":false},"edit-link":{"label":"Edit This Page","base":"https://github.com/ITmxs/gitbook-Information-System-Engineer/edit/master"},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false},"expandable-chapters":{},"search-plus":{}},"theme":"default","author":"Breeze","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{"themeLou":{"nav":[{"target":"_blank","url":"https://www.gitbook.com/","name":"gitbook官网"},{"target":"_blank","url":"https://www.npmjs.com/package/package","name":"插件"}],"footer":{"donate":{"wechat":"https://luckly007.oss-cn-beijing.aliyuncs.com/img/image-20210922202901895.png","message":"随意打赏，但不要超过一顿早餐钱 💕","wxpay":"https://luckly007.oss-cn-beijing.aliyuncs.com/img/image-20210922202901895.png","alipay":"https://luckly007.oss-cn-beijing.aliyuncs.com/img/image-20210922202843746.png","nickname":"breeze","button":"打赏","wechatText":"微信","alipayText":"支付宝","title":"『赠人玫瑰 🌹 手有余香 』","avatar":"http://xkapp-uat.oss-cn-hangzhou.aliyuncs.com/2e7a3f70-80ab-4b50-93ec-a04dfeef949b/avatar-100.png"}},"copyright":true}},"title":"Gitbook教程","language":"zh-hans","gitbook":"*","description":"Gitbook电子书教程"},"file":{"path":"yun-hang-bug-bao-cuo.md","mtime":"2021-10-09T10:24:16.995Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2021-10-09T10:29:28.325Z"},"basePath":".","book":{"language":""}});
+<<<<<<< HEAD
+      gitbook.page.hasChanged({"page":{"title":"将域名绑定到Coding","level":"1.14.1","depth":2,"next":{"title":"自定义域名","level":"1.15","depth":1,"path":"自定义域名.md","ref":"自定义域名.md","articles":[]},"previous":{"title":"将Gitbook电子书部署到Coding上","level":"1.14","depth":1,"path":"将Gitbook电子书部署到Coding上.md","ref":"将Gitbook电子书部署到Coding上.md","articles":[{"title":"将域名绑定到Coding","level":"1.14.1","depth":2,"path":"将域名绑定到Coding.md","ref":"将域名绑定到Coding.md","articles":[]}]},"dir":"ltr"},"config":{"plugins":["github-buttons@2.1.0","edit-link","splitter","tbfed-pagefooter","expandable-chapters","chapter-fold","back-to-top-button","code","pageview-count","popup","search-plus","-lunr","-search","splitter","-sharing","sharing-plus","theme-lou","mind-maps","emphasize","anchors","changyan","readmore","livereload","ace","livereload"],"root":".","styles":{"website":"styles/website.css"},"pluginsConfig":{"tbfed-pagefooter":{"modify_label":"该文件修订时间：","modify_format":"YYYY-MM-DD HH:mm:ss"},"chapter-fold":{},"pluginsConfig":{"expandable-chapters":{}},"emphasize":{},"ace":{},"livereload":{},"splitter":{},"readmore":{"allowDomain":"localhost","blogId":"27976-1633793308049-845","name":"明天也要加油呀","qrcode":"https://luckly007.oss-cn-beijing.aliyuncs.com/image/qrcod.jpg","keyword":"breeze_yyds"},"sharing-plus":{"qq":false,"all":["facebook","google","twitter","instapaper","linkedin","pocket","stumbleupon"],"douban":false,"facebook":true,"weibo":false,"instapaper":false,"whatsapp":false,"hatenaBookmark":false,"twitter":true,"messenger":false,"line":false,"vk":false,"pocket":true,"google":false,"viber":false,"stumbleupon":false,"qzone":false,"linkedin":false},"popup":{},"code":{"copyButtons":true},"theme-lou":{"hide-elements":[".summary .gitbook-link",".summary .divider"],"color":"#FF4848","book-anchor-title":"本章目录","copyright":{"author":"vx:xjg13690"},"forbidCopy":true,"logo":"assets/logo.png","book-summary-title":"文章目录","search-placeholder":"输入关键字搜索","copyrightLogo":"assets/copyright.png","favicon":"assets/favicon.ico","appleTouchIconPrecomposed152":"assets/avatar.png"},"changyan":{"appid":"cyvHoCPAs","conf":"0440cfc4168ba95d73cfc52dd4d5c60b"},"fontsettings":{"theme":"white","family":"sans","size":2},"mind-maps":{},"highlight":{},"back-to-top-button":{},"pageview-count":{},"github-buttons":{"repo":"ITmxs/gitbook","types":["star","watch","fork"],"size":"small"},"sharing":{"qq":false,"all":["qq","qzone","whatsapp","douban","facebook","google","instapaper","linkedin","messenger","twitter","weibo"],"douban":false,"facebook":false,"weibo":false,"twitter":false,"pocket":false,"google":false,"qzone":false},"edit-link":{"label":"编辑此页","base":"https://github.com/ITmxs/gitbook/edit/master/"},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false},"anchors":{},"expandable-chapters":{},"search-plus":{}},"theme":"default","author":"Breeze","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{"themeLou":{"nav":[{"target":"_blank","url":"https://www.gitbook.com/","name":"gitbook官网"},{"target":"_blank","url":"https://www.npmjs.com/package/package","name":"插件"},{"target":"_blank","url":"https://space.bilibili.com/480883651","name":"哔哩哔哩"},{"target":"_blank","url":"https://www.zhihu.com/people/yimi-yang-guang-96-65","name":"知乎"},{"target":"_blank","url":"https://juejin.cn/user/3843548384077192","name":"掘金"},{"target":"_blank","url":"https://blog.csdn.net/qq_39132095?spm=1001.2101.3001.5343","name":"CSDN"}],"footer":{"donate":{"wechat":"https://luckly007.oss-cn-beijing.aliyuncs.com/img/image-20210922202901895.png","message":"随意打赏，但不要超过一顿早餐钱 💕","wxpay":"https://luckly007.oss-cn-beijing.aliyuncs.com/img/image-20210922202901895.png","alipay":"https://luckly007.oss-cn-beijing.aliyuncs.com/img/image-20210922202843746.png","nickname":"breeze","button":"打赏","wechatText":"微信","alipayText":"支付宝","title":"『赠人玫瑰 🌹 手有余香 』","avatar":"http://xkapp-uat.oss-cn-hangzhou.aliyuncs.com/2e7a3f70-80ab-4b50-93ec-a04dfeef949b/avatar-100.png"},"copyright":true}}},"title":"Gitbook教程","language":"zh-hans","gitbook":"*","description":"Gitbook电子书教程"},"file":{"path":"将域名绑定到Coding.md","mtime":"2021-10-10T23:54:12.467Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2021-11-10T06:00:52.438Z"},"basePath":".","book":{"language":""}});
 =======
-      gitbook.page.hasChanged({"page":{"title":"gitbook init运行 bug 报错","level":"1.17","depth":1,"next":{"title":"热加载","level":"1.18","depth":1,"path":"热加载.md","ref":"热加载.md","articles":[]},"previous":{"title":"Variant","level":"1.16","depth":1,"path":"variant.md","ref":"variant.md","articles":[]},"dir":"ltr"},"config":{"plugins":["github-buttons@2.1.0","edit-link","splitter","tbfed-pagefooter","expandable-chapters","chapter-fold","back-to-top-button","code","pageview-count","popup","search-plus","-lunr","-search","splitter","-sharing","sharing-plus","theme-lou","mind-maps","emphasize","anchors","changyan","readmore","livereload","ace","livereload"],"root":".","styles":{"website":"styles/website.css"},"pluginsConfig":{"tbfed-pagefooter":{"modify_label":"该文件修订时间：","modify_format":"YYYY-MM-DD HH:mm:ss"},"chapter-fold":{},"pluginsConfig":{"expandable-chapters":{}},"emphasize":{},"ace":{},"livereload":{},"splitter":{},"readmore":{"allowDomain":"localhost","blogId":"27976-1633793308049-845","name":"明天也要加油呀","qrcode":"https://luckly007.oss-cn-beijing.aliyuncs.com/image/qrcod.jpg","keyword":"breeze_yyds"},"sharing-plus":{"qq":false,"all":["facebook","google","twitter","instapaper","linkedin","pocket","stumbleupon"],"douban":false,"facebook":true,"weibo":false,"instapaper":false,"whatsapp":false,"hatenaBookmark":false,"twitter":true,"messenger":false,"line":false,"vk":false,"pocket":true,"google":false,"viber":false,"stumbleupon":false,"qzone":false,"linkedin":false},"popup":{},"code":{"copyButtons":true},"theme-lou":{"hide-elements":[".summary .gitbook-link",".summary .divider"],"color":"#FF4848","book-anchor-title":"本章目录","copyright":{"author":"vx:xjg13690"},"forbidCopy":true,"logo":"assets/logo.png","book-summary-title":"文章目录","search-placeholder":"输入关键字搜索","copyrightLogo":"assets/copyright.png","favicon":"assets/favicon.ico","appleTouchIconPrecomposed152":"assets/avatar.png"},"changyan":{"appid":"cyvHoCPAs","conf":"0440cfc4168ba95d73cfc52dd4d5c60b"},"fontsettings":{"theme":"white","family":"sans","size":2},"mind-maps":{},"highlight":{},"back-to-top-button":{},"pageview-count":{},"github-buttons":{"repo":"ITmxs/gitbook","types":["star","watch","fork"],"size":"small"},"sharing":{"qq":false,"all":["qq","qzone","whatsapp","douban","facebook","google","instapaper","linkedin","messenger","twitter","weibo"],"douban":false,"facebook":false,"weibo":false,"twitter":false,"pocket":false,"google":false,"qzone":false},"edit-link":{"label":"编辑此页","base":"https://github.com/ITmxs/gitbook/edit/master/"},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false},"anchors":{},"expandable-chapters":{},"search-plus":{}},"theme":"default","author":"Breeze","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{"themeLou":{"nav":[{"target":"_blank","url":"https://www.gitbook.com/","name":"gitbook官网"},{"target":"_blank","url":"https://www.npmjs.com/package/package","name":"插件"},{"target":"_blank","url":"https://space.bilibili.com/480883651","name":"哔哩哔哩"},{"target":"_blank","url":"https://www.zhihu.com/people/yimi-yang-guang-96-65","name":"知乎"},{"target":"_blank","url":"https://juejin.cn/user/3843548384077192","name":"掘金"},{"target":"_blank","url":"https://blog.csdn.net/qq_39132095?spm=1001.2101.3001.5343","name":"CSDN"}],"footer":{"donate":{"wechat":"https://luckly007.oss-cn-beijing.aliyuncs.com/img/image-20210922202901895.png","message":"随意打赏，但不要超过一顿早餐钱 💕","wxpay":"https://luckly007.oss-cn-beijing.aliyuncs.com/img/image-20210922202901895.png","alipay":"https://luckly007.oss-cn-beijing.aliyuncs.com/img/image-20210922202843746.png","nickname":"breeze","button":"打赏","wechatText":"微信","alipayText":"支付宝","title":"『赠人玫瑰 🌹 手有余香 』","avatar":"http://xkapp-uat.oss-cn-hangzhou.aliyuncs.com/2e7a3f70-80ab-4b50-93ec-a04dfeef949b/avatar-100.png"},"copyright":true}}},"title":"Gitbook教程","language":"zh-hans","gitbook":"*","description":"Gitbook电子书教程"},"file":{"path":"gitbook init运行 bug 报错.md","mtime":"2021-10-10T08:34:12.853Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2021-10-13T14:20:08.869Z"},"basePath":".","book":{"language":""}});
->>>>>>> 845596aa6429cb113554f03c9cf3bf03aaea124e:gitbook init运行 bug 报错.html
+<<<<<<< HEAD:da-jian-fang-shi.html
+      gitbook.page.hasChanged({"page":{"title":"搭建方式","level":"1.5","depth":1,"next":{"title":"安装","level":"1.6","depth":1,"path":"an-zhuang.md","ref":"an-zhuang.md","articles":[]},"previous":{"title":"为什么选择使用 GitBook 来搭建？","level":"1.4","depth":1,"path":"wei-shen-me-xuan-ze-shi-yong-gitbook-lai-da-jian.md","ref":"wei-shen-me-xuan-ze-shi-yong-gitbook-lai-da-jian.md","articles":[]},"dir":"ltr"},"config":{"plugins":["github-buttons@2.1.0","edit-link","splitter","tbfed-pagefooter","expandable-chapters","back-to-top-button","code","pageview-count","popup","search-plus","-lunr","-search","splitter","-sharing","sharing-plus","theme-lou","livereload"],"root":".","styles":{"website":"styles/website.css"},"pluginsConfig":{"tbfed-pagefooter":{"copyright":"&copy luckly ","modify_label":"该文件修订时间：","modify_format":"YYYY-MM-DD HH:mm:ss"},"pluginsConfig":{"expandable-chapters":{}},"livereload":{},"splitter":{},"sharing-plus":{"qq":false,"all":["facebook","google","twitter","instapaper","linkedin","pocket","stumbleupon"],"douban":false,"facebook":true,"weibo":false,"instapaper":false,"whatsapp":false,"hatenaBookmark":false,"twitter":true,"messenger":false,"line":false,"vk":false,"pocket":true,"google":false,"viber":false,"stumbleupon":false,"qzone":false,"linkedin":false},"popup":{},"code":{"copyButtons":true},"theme-lou":{"hide-elements":[".summary .gitbook-link",".summary .divider"],"color":"#FF4848","book-anchor-title":"本章目录","copyright":{"author":"breeze"},"forbidCopy":true,"logo":"assets/logo.png","book-summary-title":"文章目录","search-placeholder":"输入关键字搜索","copyrightLogo":"assets/copyright.png","favicon":"assets/favicon.ico","appleTouchIconPrecomposed152":"assets/avatar.png"},"fontsettings":{"theme":"white","family":"sans","size":2},"highlight":{},"back-to-top-button":{},"pageview-count":{},"github-buttons":{"repo":"ITmxs/gitbook-Information-System-Engineer","types":["star"],"size":"small"},"sharing":{"qq":false,"all":["qq","qzone","viber","whatsapp","douban","facebook","google","instapaper","linkedin","messenger","twitter","weibo"],"douban":false,"facebook":false,"weibo":false,"twitter":false,"pocket":false,"google":false,"qzone":false},"edit-link":{"label":"Edit This Page","base":"https://github.com/ITmxs/gitbook-Information-System-Engineer/edit/master"},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false},"expandable-chapters":{},"search-plus":{}},"theme":"default","author":"Breeze","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{"themeLou":{"nav":[{"target":"_blank","url":"https://www.gitbook.com/","name":"gitbook官网"},{"target":"_blank","url":"https://www.npmjs.com/package/package","name":"插件"}],"footer":{"donate":{"wechat":"https://luckly007.oss-cn-beijing.aliyuncs.com/img/image-20210922202901895.png","message":"随意打赏，但不要超过一顿早餐钱 💕","wxpay":"https://luckly007.oss-cn-beijing.aliyuncs.com/img/image-20210922202901895.png","alipay":"https://luckly007.oss-cn-beijing.aliyuncs.com/img/image-20210922202843746.png","nickname":"breeze","button":"打赏","wechatText":"微信","alipayText":"支付宝","title":"『赠人玫瑰 🌹 手有余香 』","avatar":"http://xkapp-uat.oss-cn-hangzhou.aliyuncs.com/2e7a3f70-80ab-4b50-93ec-a04dfeef949b/avatar-100.png"}},"copyright":true}},"title":"Gitbook教程","language":"zh-hans","gitbook":"*","description":"Gitbook电子书教程"},"file":{"path":"da-jian-fang-shi.md","mtime":"2021-10-09T10:24:16.562Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2021-10-09T10:29:28.325Z"},"basePath":".","book":{"language":""}});
+=======
+      gitbook.page.hasChanged({"page":{"title":"将域名绑定到Coding","level":"1.14.1","depth":2,"next":{"title":"自定义域名","level":"1.15","depth":1,"path":"自定义域名.md","ref":"自定义域名.md","articles":[]},"previous":{"title":"将Gitbook电子书部署到Coding上","level":"1.14","depth":1,"path":"将Gitbook电子书部署到Coding上.md","ref":"将Gitbook电子书部署到Coding上.md","articles":[{"title":"将域名绑定到Coding","level":"1.14.1","depth":2,"path":"将域名绑定到Coding.md","ref":"将域名绑定到Coding.md","articles":[]}]},"dir":"ltr"},"config":{"plugins":["github-buttons@2.1.0","edit-link","splitter","tbfed-pagefooter","expandable-chapters","chapter-fold","back-to-top-button","code","pageview-count","popup","search-plus","-lunr","-search","splitter","-sharing","sharing-plus","theme-lou","mind-maps","emphasize","anchors","changyan","readmore","livereload","ace","livereload"],"root":".","styles":{"website":"styles/website.css"},"pluginsConfig":{"tbfed-pagefooter":{"modify_label":"该文件修订时间：","modify_format":"YYYY-MM-DD HH:mm:ss"},"chapter-fold":{},"pluginsConfig":{"expandable-chapters":{}},"emphasize":{},"ace":{},"livereload":{},"splitter":{},"readmore":{"allowDomain":"localhost","blogId":"27976-1633793308049-845","name":"明天也要加油呀","qrcode":"https://luckly007.oss-cn-beijing.aliyuncs.com/image/qrcod.jpg","keyword":"breeze_yyds"},"sharing-plus":{"qq":false,"all":["facebook","google","twitter","instapaper","linkedin","pocket","stumbleupon"],"douban":false,"facebook":true,"weibo":false,"instapaper":false,"whatsapp":false,"hatenaBookmark":false,"twitter":true,"messenger":false,"line":false,"vk":false,"pocket":true,"google":false,"viber":false,"stumbleupon":false,"qzone":false,"linkedin":false},"popup":{},"code":{"copyButtons":true},"theme-lou":{"hide-elements":[".summary .gitbook-link",".summary .divider"],"color":"#FF4848","book-anchor-title":"本章目录","copyright":{"author":"vx:xjg13690"},"forbidCopy":true,"logo":"assets/logo.png","book-summary-title":"文章目录","search-placeholder":"输入关键字搜索","copyrightLogo":"assets/copyright.png","favicon":"assets/favicon.ico","appleTouchIconPrecomposed152":"assets/avatar.png"},"changyan":{"appid":"cyvHoCPAs","conf":"0440cfc4168ba95d73cfc52dd4d5c60b"},"fontsettings":{"theme":"white","family":"sans","size":2},"mind-maps":{},"highlight":{},"back-to-top-button":{},"pageview-count":{},"github-buttons":{"repo":"ITmxs/gitbook","types":["star","watch","fork"],"size":"small"},"sharing":{"qq":false,"all":["qq","qzone","whatsapp","douban","facebook","google","instapaper","linkedin","messenger","twitter","weibo"],"douban":false,"facebook":false,"weibo":false,"twitter":false,"pocket":false,"google":false,"qzone":false},"edit-link":{"label":"编辑此页","base":"https://github.com/ITmxs/gitbook/edit/master/"},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false},"anchors":{},"expandable-chapters":{},"search-plus":{}},"theme":"default","author":"Breeze","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{"themeLou":{"nav":[{"target":"_blank","url":"https://www.gitbook.com/","name":"gitbook官网"},{"target":"_blank","url":"https://www.npmjs.com/package/package","name":"插件"},{"target":"_blank","url":"https://space.bilibili.com/480883651","name":"哔哩哔哩"},{"target":"_blank","url":"https://www.zhihu.com/people/yimi-yang-guang-96-65","name":"知乎"},{"target":"_blank","url":"https://juejin.cn/user/3843548384077192","name":"掘金"},{"target":"_blank","url":"https://blog.csdn.net/qq_39132095?spm=1001.2101.3001.5343","name":"CSDN"}],"footer":{"donate":{"wechat":"https://luckly007.oss-cn-beijing.aliyuncs.com/img/image-20210922202901895.png","message":"随意打赏，但不要超过一顿早餐钱 💕","wxpay":"https://luckly007.oss-cn-beijing.aliyuncs.com/img/image-20210922202901895.png","alipay":"https://luckly007.oss-cn-beijing.aliyuncs.com/img/image-20210922202843746.png","nickname":"breeze","button":"打赏","wechatText":"微信","alipayText":"支付宝","title":"『赠人玫瑰 🌹 手有余香 』","avatar":"http://xkapp-uat.oss-cn-hangzhou.aliyuncs.com/2e7a3f70-80ab-4b50-93ec-a04dfeef949b/avatar-100.png"},"copyright":true}}},"title":"Gitbook教程","language":"zh-hans","gitbook":"*","description":"Gitbook电子书教程"},"file":{"path":"将域名绑定到Coding.md","mtime":"2021-10-10T08:34:14.876Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2021-10-13T14:20:08.869Z"},"basePath":".","book":{"language":""}});
+>>>>>>> 845596aa6429cb113554f03c9cf3bf03aaea124e:将域名绑定到Coding.html
+>>>>>>> 845596aa6429cb113554f03c9cf3bf03aaea124e
     });
   </script>
 </div>
