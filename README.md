@@ -1,8 +1,10 @@
 # 作者介绍
 
-公众号：“明天也要加油呀”
+公众号：“坚果前端”
 
-![999999999999999](https://luckly007.oss-cn-beijing.aliyuncs.com/img/999999999999999.png)
+51CTO博客首席体验官，专注于大前端技术的分享，包括Flutter,小程序,安卓，VUE，JavaScript。
+
+![公众号](https://luckly007.oss-cn-beijing.aliyuncs.com/image/%E5%85%AC%E4%BC%97%E5%8F%B7.jpg)
 
 微信：xjg13690,拉你进群
 
