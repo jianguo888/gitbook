@@ -9,7 +9,7 @@ master 分支保存书籍的源码
 coding-pages 分支保存书籍编译后的 HTML 文件
 
 ```text
-git checkout -b coding-pages 
+git checkout -b gh-pages 
 ```
 
 开启pages服务

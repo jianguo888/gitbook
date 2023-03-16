@@ -20,7 +20,7 @@
 
 ## **语雀**
 
-![](https://pic2.zhimg.com/80/v2-f94494a703db01fafffb4db5928a0b25_720w.jpg)
+![](https://luckly007.oss-cn-beijing.aliyuncs.com/images/v2-f94494a703db01fafffb4db5928a0b25_720w.jpg)
 
 在线文档编辑与协同工具，免费用户一共有10GB上传流量
 
@@ -46,7 +46,7 @@
 
 ## **docsify**
 
-![](https://pic4.zhimg.com/80/v2-cd601e4c2f4f2e71d33ea2c54c92dfd7_720w.jpg)
+![](https://luckly007.oss-cn-beijing.aliyuncs.com/images/v2-cd601e4c2f4f2e71d33ea2c54c92dfd7_720w.jpg)
 
 非常轻量级的文档，可以托管在Github page
 
@@ -56,7 +56,7 @@
 
 ## **Docute**
 
-![](https://pic4.zhimg.com/80/v2-d9e8b0f49cf7c1116fea6dcb28f3f107_720w.jpg)
+![](https://luckly007.oss-cn-beijing.aliyuncs.com/images/v2-d9e8b0f49cf7c1116fea6dcb28f3f107_720w.jpg)
 
 这是一个开源文档，可以托管在Github page等平台，支持markdown
 
@@ -66,7 +66,7 @@
 
 ## **MinDoc**
 
-![](https://pic2.zhimg.com/80/v2-d885df8caf771dbadf380311c0ec7439_720w.jpg)
+![](https://luckly007.oss-cn-beijing.aliyuncs.com/images/v2-d885df8caf771dbadf380311c0ec7439_720w.jpg)
 
 这是一个开源接口文档在线管理系统
 
@@ -76,7 +76,7 @@
 
 ## **DokuWiki**
 
-![](https://pic2.zhimg.com/80/v2-2d1aeca2832b7ef2a7a0729ed7d8d1dd_720w.jpg)
+![](https://luckly007.oss-cn-beijing.aliyuncs.com/images/v2-2d1aeca2832b7ef2a7a0729ed7d8d1dd_720w.jpg)
 
 开源wiki系统，支持多人协作，以及丰富的后台管理设置，个人觉得比mediawiki好看多了
 
